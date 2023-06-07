@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650353136687",
+    "project_id": "flutter-app-f9f84",
+    "storage_bucket": "flutter-app-f9f84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650353136687:android:71008dcd69ad3e9945e2da",
+        "android_client_info": {
+          "package_name": "com.mobilelmsapp.mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb7czGD1NU-VKqWMR9CGH3BHYf5BMZP8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
